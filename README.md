@@ -10,5 +10,6 @@ A simple script that makes possible BLE deauthentication!
 l2ping (comes with Kali)
 ```
 
-### Tested only in Kali!
-Note: Please report bugs and feature requests!
+### Tested only in Kali but any Linux OS that uses bluez should work.
+---
+## Pull requests and issues are welcome!
