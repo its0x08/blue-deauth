@@ -1,8 +1,7 @@
-# Bluetooth Deauthenticator [blue-deauth] v20200425-1
+# Bluetooth Deauthenticator [blue-deauth] v0.0.1-beta
 A simple script that makes possible BLE deauthentication!
 
 ### Simple usage
-
 `root@kali:/scripts/blue-deauth# bash blue_dos.sh FC:58:FA:XX:XX:XX 600`
 
 ### Requirements:
