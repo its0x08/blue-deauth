@@ -2,6 +2,7 @@
 A simple script that makes possible BLE deauthentication!
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fits0x08%2Fblue-deauth%2F&countColor=%232ccce4&style=flat-square)
+[![Semgrep](https://github.com/its0x08/blue-deauth/actions/workflows/semgrep.yml/badge.svg)](https://github.com/its0x08/blue-deauth/actions/workflows/semgrep.yml)
 
 ### Simple usage
 ```bash
