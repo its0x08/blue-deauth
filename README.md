@@ -8,7 +8,7 @@ A simple script that makes possible BLE deauthentication!
 
 ### Simple usage
 ```bash
-Bluetooth deauthenticator v0.1.0-beta
+Bluetooth deauthenticator v0.1.2-beta
 Attack types:
         1.) l2ping - Ping flood
         2.) rfcomm - Connect flood
